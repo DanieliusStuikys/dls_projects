@@ -1,0 +1,27 @@
+<o<odoo>
+
+        <record model="pro.project" id="project1">
+            <field name="name">Project One</field>
+            <field name="description">Course 0n's description
+            </field>
+            <field name="start_date">2021-01-01</field>
+            <field name="end_date">2021-02-02</field>
+        </record>
+
+        <record model="pro.project" id="project2">
+            <field name="name">Project Two</field>
+            <field name="description">Course Two's description
+            </field>
+            <field name="start_date">2021-03-03</field>
+            <field name="end_date">2021-04-04</field>
+        </record>
+
+        <record model="pro.project" id="project3">
+            <field name="name">Project Three</field>
+            <field name="description">Course Three's description
+            </field>
+            <field name="start_date">2021-05-05</field>
+            <field name="end_date">2021-06-06 </field>
+        </record>
+
+</odoo>
